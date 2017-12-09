@@ -1,0 +1,6 @@
+D:\TFS\Chain\CyberChain\CyberChain\bin\Debug\CyberChain.dll
+D:\TFS\Chain\CyberChain\CyberChain\bin\Debug\CyberChain.pdb
+D:\TFS\Chain\CyberChain\CyberChain\obj\Debug\CyberChain.dll
+D:\TFS\Chain\CyberChain\CyberChain\obj\Debug\CyberChain.pdb
+D:\TFS\Chain\CyberChain\CyberChain\bin\Debug\Newtonsoft.Json.dll
+D:\TFS\Chain\CyberChain\CyberChain\bin\Debug\Newtonsoft.Json.xml

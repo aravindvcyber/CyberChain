@@ -1,0 +1,10 @@
+D:\TFS\Chain\CyberChain\ChainConsole\obj\Debug\ChainConsole.csprojResolveAssemblyReference.cache
+D:\TFS\Chain\CyberChain\ChainConsole\bin\Debug\ChainConsole.exe.config
+D:\TFS\Chain\CyberChain\ChainConsole\bin\Debug\ChainConsole.exe
+D:\TFS\Chain\CyberChain\ChainConsole\bin\Debug\ChainConsole.pdb
+D:\TFS\Chain\CyberChain\ChainConsole\bin\Debug\CyberChain.dll
+D:\TFS\Chain\CyberChain\ChainConsole\bin\Debug\Newtonsoft.Json.dll
+D:\TFS\Chain\CyberChain\ChainConsole\bin\Debug\CyberChain.pdb
+D:\TFS\Chain\CyberChain\ChainConsole\bin\Debug\Newtonsoft.Json.xml
+D:\TFS\Chain\CyberChain\ChainConsole\obj\Debug\ChainConsole.exe
+D:\TFS\Chain\CyberChain\ChainConsole\obj\Debug\ChainConsole.pdb
